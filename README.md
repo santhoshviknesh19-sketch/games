@@ -1,2 +1,2 @@
 # stuff
-just some cool little things | https://santhoshviknesh19-sketch.github.io/games/snake-game/index.html
+just some cool little things | https://santhoshviknesh19-sketch.github.io
