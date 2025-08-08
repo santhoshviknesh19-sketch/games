@@ -1,2 +1,2 @@
-# games
-cool games i made
+# GAMES
+just some cool little games
